@@ -5,7 +5,7 @@ using namespace std;
 class BankLab2 {
 	
 public:
-string name;
+String name;
 char account_type;
 int account_number,amount;
 float balance;
